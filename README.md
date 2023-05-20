@@ -1,1 +1,1 @@
-# wolof-digits
+# Savoir compter en Wolof
